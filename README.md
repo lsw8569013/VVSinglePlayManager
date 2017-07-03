@@ -16,7 +16,7 @@ videoPlay,videoCache,keyboard,videoPlayManager，边下边播
 
 # Library introduction
 
-# VideoPlayerManager
+# ![VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager)
 This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView.
 Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives and API to track it.
 
@@ -46,6 +46,8 @@ These two libraries combined are the tool to get a Video Playback in the scrolli
 
 2. Almost all methods (prepare, start, stop etc...) from MediaPlayer are basically calling native methods that work with hardware. Hardware can be tricky and if will do any work longer than 16ms (And it sure will) then we will see a lagging list. That's why need to call them from background thread.
 
+
+# ![AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
 
 ## Why AndroidVideoCache?
 Because there is no sense to download video a lot of times while streaming!
