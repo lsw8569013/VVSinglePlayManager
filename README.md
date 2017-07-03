@@ -14,6 +14,8 @@ videoPlay,videoCache,keyboard,videoPlayManager，边下边播
 ![image](https://github.com/lsw8569013/VVSinglePlayManager/blob/master/%E5%9B%BE/key.gif ) 
 
 
+# Library introduction
+
 # VideoPlayerManager
 This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView.
 Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives and API to track it.
