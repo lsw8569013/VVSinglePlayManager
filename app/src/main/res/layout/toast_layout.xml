@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    android:paddingBottom="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/toast_bg"
+        android:gravity="center"
+        android:minHeight="30dp"
+        android:orientation="horizontal"
+        android:paddingBottom="13dp"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:paddingTop="13dp" >
+
+        <ImageView
+            android:id="@+id/iv_activity_toast_icon"
+            android:layout_width="41dp"
+            android:layout_height="41dp"
+            android:layout_marginRight="13dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tishiyu"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="提示语"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/text_14"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

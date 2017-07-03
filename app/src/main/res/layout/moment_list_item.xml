@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:more="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_discovery_1_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:orientation="vertical">
+
+
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <ImageView
+            android:id="@+id/firstFrame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:background="@color/grayColor"
+            android:layout_centerHorizontal="true"
+            />
+
+        <ImageView
+            android:id="@+id/iv_VideoBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:background="@color/black"
+            android:layout_centerHorizontal="true"
+            android:visibility="gone"
+            />
+
+        <com.volokh.danylo.video_player_manager.ui.VideoPlayerView
+            android:id="@+id/video_player_1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            />
+
+        <ProgressBar
+            android:id="@+id/pb_Video"
+            android:layout_width="60dip"
+            android:layout_height="60dip"
+            android:layout_centerInParent="true"
+            android:indeterminateDrawable="@drawable/progressbar"
+            android:visibility="gone"
+            tools:visibility="visible"
+            />
+        <ImageView
+            android:id="@+id/iv_playVideo"
+            android:layout_width="@dimen/play_iv_width"
+            android:layout_height="@dimen/play_iv_width"
+            android:background="@mipmap/common_play"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            />
+
+        <RelativeLayout
+            android:id="@+id/ll_pd_video"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:visibility = "visible"
+            android:layout_marginLeft="20dip"
+            android:layout_marginRight="20dip"
+            android:layout_marginBottom="1dip"
+            android:layout_alignParentBottom="true"
+            >
+
+            <ImageView
+                android:id="@+id/iv_videoPause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/c_iv_pause"
+                android:layout_marginRight="10dip"
+                android:padding="5dip"
+                android:layout_centerVertical="true"
+                android:visibility="visible"
+                />
+
+            <TextView
+                android:id="@+id/tv_videoCurrentTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="00:00"
+                android:textColor="@color/white"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="3dip"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/iv_videoPause"
+                />
+
+            <TextView
+                android:id="@+id/tv_videoLengthTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="01:11"
+                android:textColor="@color/white"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="5dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="5dip"
+                android:layout_centerVertical="true"
+                />
+
+            <SeekBar
+                android:id="@+id/sb_videoSeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="2dip"
+                android:maxHeight="2dip"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/tv_videoCurrentTime"
+                android:layout_toLeftOf="@+id/tv_videoLengthTime"
+                android:max="100"
+                android:progressDrawable="@drawable/po_seekbar"
+                android:secondaryProgress="0"
+                android:layout_marginTop="2dip"
+                android:thumb="@drawable/seekbar_circle"
+                android:thumbOffset="2dp"
+                android:paddingTop="7dip"
+                android:paddingBottom="5dip"
+                />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <!-- 地图 -->
+
+
+    <!-- 转发文字描述 -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="85dp"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:id="@+id/tv_forward_from"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="15.5sp"
+            android:text="#测试#"
+            android:textStyle="bold"
+            android:visibility="visible"
+            />
+
+        <TextView
+            android:id="@+id/tv_forward"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_forward_from"
+            android:visibility="invisible"
+            />
+    </RelativeLayout>
+    <!--xmlns:more="http://schemas.android.com/apk/res-auto"-->
+
+    <TextView
+        android:id="@+id/tv_ZFFrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="20dip"
+        android:textSize="18sp"
+        tools:text="#测试#"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="85dp"
+        android:layout_marginTop="15dp"
+        android:visibility="visible"
+        />
+
+    <include
+        android:id="@+id/ll_group_bottom"
+        layout="@layout/item_discovery_bottom" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_bottom"
+        android:background="@color/line_color"
+        android:visibility="gone"
+        />
+
+</LinearLayout>

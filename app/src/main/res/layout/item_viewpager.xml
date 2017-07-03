@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <com.bm.feipingflyclip.activity.search.image.DragPhotoView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/iv_drayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    </com.bm.feipingflyclip.activity.search.image.DragPhotoView>
+
+    <ImageView
+        android:id="@+id/iv_local"
+        android:layout_width="200dip"
+        android:layout_height="200dip"
+        android:layout_centerInParent="true"
+        tools:background="@color/white"
+        android:background="@color/white"
+        />
+
+</FrameLayout>-->
+
+<movie.example.ls.vvmoviemanager.library.imageshow.DragPhotoView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dip"
+    android:orientation="vertical">
+
+</movie.example.ls.vvmoviemanager.library.imageshow.DragPhotoView>
+

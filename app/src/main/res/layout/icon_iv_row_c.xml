@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <ImageView
+        android:id="@+id/iv_expression"
+        android:layout_width="60dp"
+        android:layout_height="56dp"
+        tools:background="@mipmap/bee_01"
+        android:layout_margin="15dp"
+        android:layout_centerInParent="true"
+        android:scaleType="fitCenter"
+        />
+
+</RelativeLayout>

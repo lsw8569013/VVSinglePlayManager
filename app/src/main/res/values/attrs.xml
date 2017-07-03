@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="SwitchButton">
+        <attr name="imgON" format="reference" />
+        <attr name="imgOFF" format="reference" />
+    </declare-styleable>
+
+
+    <attr name="absListViewStyle" format="reference" />
+    <attr name="listViewStyle" format="reference" />
+
+    <attr name="fromDegrees" format="float|reference" />
+    <attr name="toDegrees" format="float|reference" />
+    <attr name="childSize" format="dimension|reference" />
+
+    <declare-styleable name="PinterestView">
+        <attr name="fromDegrees" />
+        <attr name="toDegrees" />
+        <attr name="childSize" />
+    </declare-styleable>
+
+    <!--滑动开关-->
+    <declare-styleable name="SwitchButtonView">
+        <attr name="switchOpenImage" format="reference" />
+        <attr name="switchCloseImage" format="reference" />
+        <attr name="switchStatus">
+            <enum name="open" value="0" />
+            <enum name="close" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="roundWidth1" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+        <attr name="roundStyle" format="enum">
+            <enum name="ALL" value="0"></enum>
+            <enum name="TOP" value="1"></enum>
+            <enum name="BOTTOM" value="2"></enum>
+            <enum name="LEFTTOP" value="3"></enum>
+            <enum name="RIGHTTOP" value="4"></enum>
+            <enum name="LEFTBOTTOM" value="5"></enum>
+            <enum name="RIGHTBOTTOM" value="6"></enum>
+            <enum name="NOT" value="7"></enum>
+            <enum name="LEFT" value="8"></enum>
+            <enum name="RIGHT" value="9"></enum>
+        </attr>
+    </declare-styleable>
+
+    <!--圆角WebView-->
+    <declare-styleable name="CusWebViewStyle">
+        <attr name="webviewradius" format="string" />
+    </declare-styleable>
+
+
+    <declare-styleable name="MoreTextStyle">
+        <attr name="textSize1" format="dimension" />
+        <attr name="textColor1" format="color" />
+        <attr name="maxLine" format="integer" />
+        <attr name="text1" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CImageView">
+        <attr name="video" format="boolean" />
+    </declare-styleable>
+
+    <style name="Key_Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowSoftInputMode">stateAlwaysVisible</item>
+    </style>
+
+    <declare-styleable name="wheelview">
+        <attr name="gravity">
+            <enum name="center" value="17" />
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+        </attr>
+        <attr name="textWheelSize" format="dimension" />
+        <attr name="textColorOut" format="color" />
+        <attr name="textColorCenter" format="color" />
+        <attr name="dividerColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="GifImageView">
+        <attr name="isGifView" format="boolean"/>
+    </declare-styleable>
+
+</resources>

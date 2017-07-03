@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/emojion_root_layout"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        android:visibility="visible"
+    android:background="@color/white"
+    >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/c_gray_line"
+        />
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <View
+        android:id="@+id/view_line"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@id/viewpager"
+        android:background="@color/c_gray_line"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        >
+
+            <movie.example.ls.vvmoviemanager.views.CircleImageView
+                android:id="@+id/icon_big"
+                android:layout_width="8dip"
+                android:layout_height="8dip"
+                android:src="@color/drak_gray"
+                android:layout_marginRight="5dip"
+                />
+
+            <movie.example.ls.vvmoviemanager.views.CircleImageView
+                android:layout_marginLeft="5dip"
+                android:id="@+id/icon_love"
+                android:layout_width="8dip"
+                android:layout_height="8dip"
+                android:src="@color/gray_normal"
+                />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_line2"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:background="@color/c_gray_line"
+        />
+
+</RelativeLayout>

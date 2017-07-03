@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_discovery_bottom"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="18dip"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_pop_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/iv_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/item_icon_marage"
+            android:background="@mipmap/ic_launcher" />
+
+        <ImageView
+            android:id="@+id/iv_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/item_icon_marage"
+            android:layout_toRightOf="@+id/iv_comment"
+            android:background="@mipmap/ic_launcher" />
+
+        <ImageView
+            android:id="@+id/iv_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/item_icon_marage"
+            android:layout_toRightOf="@+id/iv_share"
+            />
+
+        <ImageView
+            android:id="@+id/iv_good"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            tools:background="@mipmap/good" />
+
+        <ImageView
+            android:id="@+id/iv_showGoodGif"
+            android:layout_width="@dimen/popwindow_discovery_zan_xin_size"
+            android:layout_height="@dimen/popwindow_discovery_zan_xin_size"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:layout_toLeftOf="@+id/iv_good"
+            android:background="@color/white"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_likeNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:layout_toLeftOf="@id/iv_showGoodGif"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_16" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="19dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+         >
+    </LinearLayout>
+
+</LinearLayout>

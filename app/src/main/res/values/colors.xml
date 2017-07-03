@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grayColor">#f7edf0</color>
+    <color name="gray">#919090</color>
+    <color name="gray_trans">#9ecccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="white_ivory">#fffbf0</color>
+    <color name="transparent_color">#a0000000</color>
+    <color name="black">#ff000000</color>
+    <!-- #E6E6E6 -->
+    <color name="gray_normal">#E1E1E1</color>
+    <color name="blue">#06b1f0</color>
+    <color name="blue_press">#289ae2</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_black">#BB000000</color>
+    <color name="chat_network_error_item_color">#F6EBE6</color>
+    <color name="chat_network_error_item_press_color">#5ba34f</color>
+    <!--扫描-->
+    <color name="scan_bg">#7f000000</color>
+    <color name="input_box_prompt">#b5b5b5</color>
+    <color name="drak_gray">#444444</color>
+    <color name="hint_gray">#a6a5a5</color>
+    <color name="submit_red">#bd081c</color>
+
+
+    <!-- 视频测试-->
+    <color name="video_thumbnail_placeholder_color">#cccccc</color>
+    <color name="percent_50_black">#80000000</color>
+
+    <color name="camera_bg_d">#282828</color>
+    <color name="camera_bg_p">#141414</color>
+    <color name="atwill_style" >#555555</color>
+    <color name="camera_folder_color_back" >#A3A3A3</color>
+    <color name="milk_white">#F7F7F7</color>
+
+    <!--拍摄-->
+    <color name="camera_progress_delete">#f68b2b</color>
+    <color name="camera_progress">#2980B9</color>
+    <color name="camera_progress_split">#005084</color>
+    <color name="camera_progress_three">#24ff00</color>
+    <color name="camera_progress_overflow">#1b5d89</color>
+    <color name="camera_theme_selected_bgcolor">#2980B9</color>
+    <color name="camera_bottom_press_bg">#1b1c1f</color>
+    <color name="camera_bg">#2c2c2c</color>
+    <color name="red">#EF132D</color>
+
+    <!--发布-->
+    <color name="common_title">#444444</color>
+    <color name="content">#999999</color>
+    <color name="progress_pg">#c71321</color>
+    <color name="list_pressed_bg">#d9d9d9</color>
+    <color name="divider">#e8e8e8</color>
+
+    <!-- 手机通讯录 -->
+    <color name="pure_blue">#0084FF</color>
+    <color name="medium_blue">#0064FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="dark_orange">#FF8C00</color>
+
+    <!-- pickerview -->
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+    <color name="c_gray_line">#B5B5B5</color>
+    <color name="c_submit_red">#EF132D</color>
+    <!-- #E6E6E6 -->
+    <color name="line_color">#E1E1E1</color>
+    <color name="side_bar_color">#98214162</color>
+
+</resources>
