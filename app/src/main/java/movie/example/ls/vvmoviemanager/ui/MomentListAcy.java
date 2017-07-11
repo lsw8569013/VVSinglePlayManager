@@ -43,6 +43,7 @@ public class MomentListAcy extends BaseActivity {
     public ArrayList<CommontBack4C> videoMoments = new ArrayList<CommontBack4C>();
     private MomentListFragment fragment;
     public int currentTime = 0;
+    private boolean single;
 
     @Override
     protected void setWindowsParams() {
@@ -66,6 +67,8 @@ public class MomentListAcy extends BaseActivity {
         }
         type = extras.getInt("type");
         page = extras.getInt("page");
+        single = extras.getBoolean("single");
+
         if (ConfigUtils.TYPE_MIMEFRAGMENT == type){
             userId = extras.getString("userId");
         }
