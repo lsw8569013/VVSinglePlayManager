@@ -777,6 +777,10 @@ public class VideoPlayerView extends ScalableTextureView
             mViewHandlerBackgroundThread.postQuit();
             mViewHandlerBackgroundThread = null;
         }
+        if(imageBackView!=null){
+            imageBackView.setImageBitmap(null);
+            imageBackView = null;
+        }
         if (SHOW_LOGS) Logger.v(TAG, "<< onDetachedFromWindow");
     }
 
