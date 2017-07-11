@@ -12,6 +12,7 @@ import android.preference.PreferenceManager;
 import android.util.AttributeSet;
 import android.view.TextureView;
 import android.view.View;
+import android.widget.ImageView;
 
 import com.danikula.videocache.CacheListener;
 import com.volokh.danylo.video_player_manager.Config;
@@ -75,6 +76,7 @@ public class VideoPlayerView extends ScalableTextureView
 
     private final Set<MediaPlayerWrapper.MainThreadMediaPlayerListener> mMediaPlayerMainThreadListeners = new HashSet<>();
     private int TIMER_INTERVAL = 1000;
+    private ImageView imageBackView;
 
     public MediaPlayerWrapper.State getCurrentState() {
         synchronized (mReadyForPlaybackIndicator) {
@@ -722,6 +724,14 @@ public class VideoPlayerView extends ScalableTextureView
         if(mLocalSurfaceTextureListener != null){
             mLocalSurfaceTextureListener.onSurfaceTextureUpdated(surface);
         }
+
+        if(imageBackView != null){
+            imageBackView.setImageBitmap(getBitmap(getContentWidth()*2,getContentHeight()*2));
+        }
+    }
+
+    public void setImageBackView(ImageView imageBackView) {
+        this.imageBackView = imageBackView;
     }
 
     public interface PlaybackStartedListener {

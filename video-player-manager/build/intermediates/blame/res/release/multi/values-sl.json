@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sl\\values-sl.xml",
+        "outputFile": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sl\\values-sl.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 157
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 264
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 372
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 459
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 562
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 681
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 898
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 998
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1111
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1218
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,259 @@
                     "endOffset": 1439
                 },
                 "from": {
-                    "file": "F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/F:\\VVMovieManager\\video-player-manager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1563,
+                        "endColumn": 116,
+                        "endOffset": 1675
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 106,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 106,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 106,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 106,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 107,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 107,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 86,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 86,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 102,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 102,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 118,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 118,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 107,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 107,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 108,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 108,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 99,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 99,
+                        "endOffset": 1234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 112,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 112,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 106,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 106,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 103,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 103,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 116,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "/Users/sunxinglong/Documents/GitHub/VVSinglePlayManager/video-player-manager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,

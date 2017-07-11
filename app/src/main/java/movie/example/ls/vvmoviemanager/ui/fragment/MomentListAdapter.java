@@ -222,6 +222,9 @@ public class MomentListAdapter extends RecyclerView.Adapter<ViewHolder>  impleme
 
         //界面数据适配
         public void onBindViewHolder(final CommontBack4C cb4, final int position) {
+
+            video_player_1.setImageBackView(firstFrame);
+
             final ReleaseCommontBack moment = cb4.getMoment();
 
 
@@ -511,7 +514,7 @@ public class MomentListAdapter extends RecyclerView.Adapter<ViewHolder>  impleme
                         ll_comment.setVisibility(View.GONE);
                         tv_ZFFrom.setVisibility(View.GONE);
                         item_discovery_bottom.setVisibility(View.GONE);
-                        iv_VideoBG.setVisibility(View.VISIBLE);
+//                        iv_VideoBG.setVisibility(View.VISIBLE);
 
 //                        rv_momentTitle.setVisibility(View.GONE);
                         fullscreen(true);
