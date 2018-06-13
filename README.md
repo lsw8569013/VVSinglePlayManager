@@ -1,6 +1,8 @@
 # VVSinglePlayManager
 videoPlay,videoCache,keyboard,videoPlayManager，边下边播
 
+https://blog.csdn.net/lsw8569013/article/details/74231530 联系作者
+
 ## 视频播放库 修改自 VideoPlayerManager ![VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager)
 在videoPlayerManager基础上，添加缓存AndroidVideoCache ![AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) ，可以边下边播
 视频列表 ，保持只有一个视频在播放，视频点击变全屏~
