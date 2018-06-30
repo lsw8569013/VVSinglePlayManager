@@ -1,5 +1,5 @@
 # VVSinglePlayManager
-videoPlay,videoCache,keyboard,videoPlayManager，边下边播
+videoPlay,videoCache,keyboard,videoPlayManager，边下边播,键盘，朋友圈，图片查看，表情
 
 https://blog.csdn.net/lsw8569013/article/details/74231530 联系作者
 
