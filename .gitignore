@@ -8,4 +8,6 @@
 /captures
 .externalNativeBuild
 *.class
-*.class
+/list-visibility-utils/build/
+/video-player-manager/build/
+/.idea/
