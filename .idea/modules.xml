@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHub-VVSinglePlayManager.iml" filepath="$PROJECT_DIR$/GitHub-VVSinglePlayManager.iml" group="VVSinglePlayManager" />
       <module fileurl="file://$PROJECT_DIR$/VVSinglePlayManager.iml" filepath="$PROJECT_DIR$/VVSinglePlayManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/VVSinglePlayManager-app.iml" filepath="$PROJECT_DIR$/app/VVSinglePlayManager-app.iml" group="VVSinglePlayManager/app" />
+      <module fileurl="file://$PROJECT_DIR$/list-visibility-utils/VVSinglePlayManager-list-visibility-utils.iml" filepath="$PROJECT_DIR$/list-visibility-utils/VVSinglePlayManager-list-visibility-utils.iml" group="VVSinglePlayManager/list-visibility-utils" />
+      <module fileurl="file://$PROJECT_DIR$/video-player-manager/VVSinglePlayManager-video-player-manager.iml" filepath="$PROJECT_DIR$/video-player-manager/VVSinglePlayManager-video-player-manager.iml" group="VVSinglePlayManager/video-player-manager" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/list-visibility-utils/list-visibility-utils.iml" filepath="$PROJECT_DIR$/list-visibility-utils/list-visibility-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/video-player-manager/video-player-manager.iml" filepath="$PROJECT_DIR$/video-player-manager/video-player-manager.iml" />
