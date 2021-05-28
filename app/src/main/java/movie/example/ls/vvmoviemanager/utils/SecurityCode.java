@@ -66,7 +66,8 @@ public class SecurityCode {
 			canvas.drawLine(random.nextInt(width), random.nextInt(height), random.nextInt(width),
 					random.nextInt(height), textPaint);
 		}
-		canvas.save(Canvas.ALL_SAVE_FLAG);
+//		canvas.save(Canvas.ALL_SAVE_FLAG);
+		canvas.save();
 		canvas.restore();
 		return codeBitmap;
 	}
